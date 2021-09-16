@@ -1,0 +1,2 @@
+# JavaCode
+Some code snippets
